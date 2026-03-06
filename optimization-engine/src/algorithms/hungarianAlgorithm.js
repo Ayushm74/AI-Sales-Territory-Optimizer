@@ -119,8 +119,5 @@ const greedyWithCostMatrix = (territories, expandedReps, costMatrix) => {
   return assignments;
 };
 
-// Import greedy for fallback
-import greedyAssignment from './greedyAssignment.js';
-
 export default hungarianAssignment;
 

@@ -1,0 +1,501 @@
+sales_rep,region,revenue,deals,customers
+Kiran Malhotra,South - Andhra Pradesh,2452795.86,85,122
+Pranav Pillai,Central - Madhya Pradesh,4408315.33,96,96
+Atharv Pillai,East - Odisha,3763723.23,105,105
+Simran Sharma,South - Kerala,3109140.06,23,25
+Swati Gupta,South - Kerala,3080703.51,32,74
+Rekha Reddy,East - Bihar,2088473.92,50,63
+Aaryan Saxena,West - Gujarat,2829734.3,95,122
+Ishita Rao,North - UP,402004.12,41,41
+Arjun Nair,Central - Madhya Pradesh,221806.43,46,59
+Priya Sharma,South - Andhra Pradesh,3205483.29,97,140
+Krishna Patel,South - Karnataka,1609408.32,14,21
+Vivaan Gupta,North - Delhi,3038426.49,61,101
+Anjali Sharma,South - Andhra Pradesh,3063667.41,64,68
+Riya Jain,North - Delhi,2340411.32,83,106
+Atharv Mishra,South - Andhra Pradesh,2780792.29,72,82
+Kabir Jain,North - Haryana,2484510.43,37,48
+Rekha Singh,North - Delhi,4289151.5,65,82
+Tanvi Shah,South - Kerala,840526.35,51,69
+Kritika Shah,East - West Bengal,4896431.73,116,117
+Sai Yadav,East - Bihar,3524857.49,21,27
+Priya Dubey,South - Tamil Nadu,4870545.4,28,52
+Kritika Patel,South - Andhra Pradesh,351652.68,104,115
+Sai Jain,Central - Chhattisgarh,4749505.45,63,72
+Ananya Yadav,West - Rajasthan,433036.57,55,62
+Shruti Bansal,South - Tamil Nadu,1777940.65,109,110
+Arjun Desai,North - UP,2791874.0,21,35
+Nandini Sharma,South - Tamil Nadu,3375900.17,9,15
+Kritika Verma,North - Haryana,600325.59,50,76
+Krishna Tiwari,West - Gujarat,845542.25,87,103
+Ananya Pandey,East - Bihar,2590263.16,46,48
+Ritvik Shah,Northeast - Assam,1204422.79,55,57
+Nandini Mishra,Central - Madhya Pradesh,3539557.91,64,73
+Tanvi Nair,South - Kerala,3401111.24,62,68
+Kavya Srivastava,Northeast - Assam,1005867.13,120,124
+Ishaan Naik,South - Tamil Nadu,1717750.2,17,17
+Priya Joshi,North - Delhi,2506434.53,76,101
+Dhruv Iyer,South - Karnataka,1964784.1,103,118
+Kiran Patel,West - Maharashtra,4698860.62,44,49
+Pooja Naik,West - Rajasthan,955647.45,70,109
+Neha Tiwari,North - Haryana,934365.97,40,44
+Shaurya Shah,East - Bihar,4022037.88,48,49
+Reyansh Jain,Northeast - Assam,1294786.16,71,117
+Ananya Kapoor,South - Tamil Nadu,4490411.79,39,41
+Sai Mehta,South - Kerala,2805148.76,29,36
+Sneha Kumar,Central - Chhattisgarh,4979158.32,47,59
+Sneha Reddy,West - Gujarat,2628682.66,30,61
+Priya Mishra,South - Karnataka,1538685.11,98,109
+Rohan Iyer,North - Punjab,4640546.45,102,102
+Sai Malhotra,North - Haryana,3895052.55,92,96
+Kritika Tiwari,South - Karnataka,1903046.59,33,49
+Priya Jain,West - Maharashtra,4638161.31,36,40
+Vivaan Srivastava,West - Gujarat,176890.21,11,42
+Shaurya Agarwal,Northeast - Meghalaya,3751169.06,76,80
+Riya Bansal,Central - Chhattisgarh,1243896.45,109,118
+Tanvi Joshi,Northeast - Meghalaya,1427795.93,115,148
+Divya Kumar,South - Andhra Pradesh,1305225.99,48,56
+Kabir Menon,East - Bihar,4924787.27,8,20
+Pranav Saxena,Northeast - Meghalaya,3069582.65,113,141
+Ishita Menon,South - Kerala,4352323.03,50,50
+Ananya Mehta,Northeast - Meghalaya,511390.33,74,88
+Ritvik Malhotra,South - Karnataka,1955278.42,43,57
+Swati Mishra,North - Delhi,665078.82,104,108
+Ishaan Tiwari,East - Bihar,462352.17,75,103
+Rekha Malhotra,South - Kerala,4440070.31,88,106
+Aditya Verma,Central - Chhattisgarh,3183179.87,32,61
+Arjun Joshi,West - Rajasthan,651479.56,82,91
+Riya Agarwal,South - Andhra Pradesh,2256417.81,41,50
+Kabir Malhotra,South - Kerala,1120010.29,9,11
+Reyansh Naik,North - UP,264498.31,38,41
+Vivaan Bansal,Northeast - Meghalaya,3333594.48,65,95
+Kavya Menon,North - Haryana,4342367.65,18,28
+Simran Jain,West - Gujarat,2272930.89,119,134
+Ishita Agarwal,South - Andhra Pradesh,315160.41,25,58
+Pooja Jain,North - Delhi,2253777.17,76,117
+Riya Kapoor,South - Tamil Nadu,2889336.65,73,105
+Krishna Bhat,East - West Bengal,2814303.42,21,31
+Kritika Naik,North - UP,1038317.55,12,16
+Sneha Pandey,East - West Bengal,1209320.76,61,65
+Simran Kumar,Central - Chhattisgarh,3820747.63,15,23
+Sneha Gupta,Northeast - Meghalaya,4674183.02,6,10
+Geeta Verma,West - Gujarat,794377.6,70,89
+Simran Iyer,Central - Chhattisgarh,3389522.64,83,109
+Meera Singh,North - Punjab,307185.15,89,117
+Arjun Kumar,Northeast - Assam,3326624.89,5,20
+Sai Naik,South - Karnataka,2105276.57,19,29
+Anjali Bhat,South - Andhra Pradesh,1136918.0,80,116
+Dhruv Rao,North - UP,3749240.99,68,70
+Ishita Patel,North - Delhi,4327921.75,68,83
+Aarav Verma,North - Punjab,2790710.37,57,70
+Neha Dubey,East - Bihar,2364364.4,65,81
+Aaryan Mishra,South - Tamil Nadu,3295660.86,8,17
+Aditya Yadav,West - Maharashtra,1331495.5,38,39
+Kritika Dubey,South - Tamil Nadu,2562762.58,90,90
+Riya Tiwari,South - Karnataka,3368038.36,85,97
+Ishaan Sharma,South - Andhra Pradesh,1774707.67,95,105
+Nandini Yadav,West - Maharashtra,3706340.59,11,37
+Rekha Dubey,West - Rajasthan,1500494.93,75,84
+Shruti Pillai,West - Gujarat,4215881.53,46,50
+Shaurya Desai,East - Bihar,3404228.8,47,69
+Ritvik Verma,South - Kerala,3828614.77,110,133
+Aarav Kumar,North - Delhi,3105634.03,118,122
+Aditya Agarwal,North - Haryana,1310773.36,41,41
+Sai Bansal,North - UP,3923506.29,36,60
+Geeta Mishra,North - UP,2438091.8,115,120
+Arjun Singh,North - UP,4016828.18,117,131
+Ananya Jain,East - West Bengal,1864299.88,112,120
+Meera Agarwal,Northeast - Meghalaya,2643882.16,32,33
+Pallavi Sharma,North - Haryana,1777527.48,13,25
+Anjali Joshi,East - Bihar,2354884.23,69,95
+Dhruv Saxena,West - Rajasthan,2092598.6,49,55
+Ayaan Menon,Central - Madhya Pradesh,579693.79,53,73
+Vivaan Iyer,South - Karnataka,1853457.09,54,62
+Kabir Desai,Northeast - Assam,1270563.01,30,34
+Aarav Reddy,Central - Chhattisgarh,972732.83,82,88
+Tanvi Reddy,West - Rajasthan,3286677.82,117,122
+Pooja Menon,East - Bihar,4351409.57,120,130
+Sai Singh,Central - Madhya Pradesh,2623945.59,18,18
+Neha Saxena,West - Gujarat,888190.09,6,8
+Kabir Mishra,Northeast - Assam,1631871.29,113,125
+Atharv Iyer,Central - Chhattisgarh,1699242.15,49,52
+Tanvi Patel,North - Punjab,1811766.06,11,33
+Ritvik Sharma,North - Delhi,4484146.11,63,64
+Kabir Bhat,Northeast - Assam,4566592.37,22,31
+Aaryan Singh,Central - Chhattisgarh,4210537.7,42,70
+Anjali Jain,North - Haryana,4681460.99,44,44
+Aarav Jain,Central - Chhattisgarh,2229252.96,100,106
+Priya Singh,Central - Chhattisgarh,1923333.28,71,72
+Arjun Pandey,West - Maharashtra,3927089.17,33,44
+Aditya Malhotra,Central - Madhya Pradesh,3399690.73,112,131
+Vihaan Sharma,West - Rajasthan,367806.4,59,64
+Anjali Agarwal,North - UP,2284770.19,113,137
+Arjun Saxena,North - Delhi,3359514.01,65,66
+Kabir Agarwal,West - Gujarat,2459128.26,117,121
+Pallavi Srivastava,West - Maharashtra,2279602.01,34,64
+Advik Shah,East - Bihar,1962826.75,10,15
+Vihaan Desai,West - Gujarat,2522787.51,90,91
+Kiran Nair,East - Bihar,4869528.76,16,47
+Rekha Pillai,South - Andhra Pradesh,641013.76,59,60
+Advik Singh,West - Rajasthan,400115.96,78,80
+Kritika Bhat,South - Karnataka,3479257.82,75,79
+Anjali Yadav,North - Haryana,1011504.91,32,34
+Kabir Nair,West - Rajasthan,763978.12,94,97
+Ananya Sharma,Central - Chhattisgarh,4454048.87,13,27
+Tanvi Naik,Central - Chhattisgarh,1738338.15,10,41
+Vihaan Menon,Northeast - Assam,1907143.08,56,71
+Aarav Sharma,East - Odisha,4559521.29,120,120
+Kavya Pandey,East - West Bengal,4798701.76,75,90
+Advik Reddy,South - Tamil Nadu,336254.56,91,93
+Krishna Joshi,North - Haryana,2934465.84,28,30
+Arjun Yadav,North - Haryana,4944790.8,117,119
+Aditya Dubey,North - Punjab,1937799.13,65,87
+Anjali Iyer,Central - Madhya Pradesh,2470784.23,21,22
+Meera Patel,East - Odisha,878074.77,70,82
+Pooja Singh,West - Rajasthan,4321474.73,39,41
+Kavya Dubey,South - Andhra Pradesh,2056213.03,23,23
+Pranav Naik,South - Kerala,2267997.31,29,37
+Nandini Gupta,Central - Madhya Pradesh,2651747.03,48,57
+Aaryan Dubey,East - West Bengal,4710046.61,51,78
+Simran Mishra,North - Haryana,2762991.93,44,71
+Simran Yadav,North - Delhi,3722219.95,118,118
+Aaryan Naik,South - Tamil Nadu,2674426.62,113,126
+Pranav Rao,North - UP,4270273.78,7,26
+Simran Joshi,South - Kerala,697519.16,72,79
+Reyansh Gupta,West - Rajasthan,4976079.85,42,43
+Ishaan Bhat,Northeast - Assam,4233178.72,48,82
+Aarav Rao,North - Haryana,1755221.85,31,31
+Aaryan Shah,West - Maharashtra,907264.71,120,132
+Aarav Desai,North - UP,1160432.07,33,64
+Swati Verma,Central - Madhya Pradesh,4054983.9,86,104
+Atharv Dubey,North - Delhi,1056972.41,83,104
+Aditya Tiwari,South - Tamil Nadu,2994125.92,82,83
+Pranav Nair,South - Andhra Pradesh,151682.22,120,153
+Aarav Menon,Northeast - Meghalaya,3269428.92,12,22
+Geeta Singh,South - Karnataka,309864.87,76,78
+Nandini Nair,North - Punjab,4700805.13,87,93
+Rekha Kapoor,North - Punjab,4815890.03,91,103
+Priya Yadav,North - UP,4407446.43,113,116
+Vihaan Pandey,South - Tamil Nadu,2718549.43,45,55
+Ayaan Mehta,South - Andhra Pradesh,1475736.11,76,76
+Ritvik Bansal,North - Delhi,4794055.0,47,56
+Divya Pillai,South - Tamil Nadu,4718684.35,59,82
+Ishita Tiwari,North - UP,2389453.91,116,130
+Dhruv Pillai,West - Maharashtra,2219788.58,80,97
+Ayaan Jain,North - Punjab,307349.37,63,112
+Divya Srivastava,Central - Madhya Pradesh,3026607.51,93,101
+Ananya Nair,North - UP,2215889.4,52,52
+Meera Malhotra,Central - Chhattisgarh,3812807.01,83,94
+Vihaan Malhotra,Northeast - Assam,3132663.06,68,84
+Shruti Mishra,North - Delhi,4297108.32,60,71
+Meera Pandey,Northeast - Assam,1660000.97,53,65
+Meera Sharma,South - Andhra Pradesh,692029.03,68,68
+Geeta Rao,West - Gujarat,3189380.84,92,95
+Geeta Yadav,South - Andhra Pradesh,2737309.66,15,31
+Sai Joshi,East - Bihar,2607742.72,53,57
+Ishaan Mishra,Northeast - Meghalaya,3982343.94,14,15
+Arjun Mehta,Central - Madhya Pradesh,2526386.95,47,54
+Ananya Patel,South - Tamil Nadu,891524.46,31,32
+Priya Pandey,West - Maharashtra,865563.81,109,138
+Advik Malhotra,South - Kerala,1768017.79,20,21
+Rohan Naik,West - Gujarat,3799644.77,25,31
+Shruti Kumar,South - Karnataka,4617804.45,21,21
+Krishna Rao,Central - Madhya Pradesh,2604369.31,74,85
+Pallavi Malhotra,North - Punjab,3115633.37,50,83
+Reyansh Menon,West - Maharashtra,1625255.18,58,60
+Sneha Patel,South - Tamil Nadu,2508072.1,40,53
+Ishita Gupta,Central - Madhya Pradesh,3993152.04,86,89
+Shruti Singh,North - UP,3426885.75,78,97
+Ishita Malhotra,South - Kerala,3259472.9,42,54
+Ayaan Bhat,South - Karnataka,2472898.05,71,97
+Kritika Rao,East - Bihar,3574400.81,101,106
+Rekha Bhat,Central - Madhya Pradesh,4243059.1,83,87
+Vivaan Menon,East - Odisha,716546.51,29,46
+Ananya Malhotra,Northeast - Meghalaya,4398818.32,59,61
+Vihaan Bansal,Northeast - Meghalaya,414056.73,112,137
+Kabir Yadav,West - Maharashtra,4146477.48,109,120
+Kabir Joshi,West - Rajasthan,2500066.44,108,112
+Sneha Rao,South - Karnataka,1102888.19,17,44
+Pranav Reddy,North - Delhi,2595422.25,85,97
+Advik Bansal,North - Punjab,200244.34,80,87
+Meera Bansal,South - Kerala,2530275.92,31,47
+Divya Agarwal,South - Karnataka,1756899.92,109,116
+Kavya Sharma,West - Gujarat,1532732.82,109,111
+Divya Naik,Central - Madhya Pradesh,1424107.73,43,43
+Rohan Kapoor,Central - Chhattisgarh,4534524.44,63,63
+Ishita Kumar,North - UP,4271314.4,41,70
+Reyansh Patel,Northeast - Meghalaya,3123242.05,43,49
+Dhruv Naik,South - Karnataka,282844.94,65,114
+Ishaan Gupta,East - Bihar,2807043.14,95,113
+Anjali Patel,South - Kerala,3643015.79,23,24
+Ishaan Srivastava,Central - Chhattisgarh,1287308.98,54,68
+Ishaan Desai,South - Kerala,4944314.15,20,45
+Meera Menon,Northeast - Assam,4451456.09,41,43
+Shruti Bhat,East - Odisha,2054414.18,98,104
+Aaryan Jain,Central - Chhattisgarh,459674.72,13,16
+Rohan Joshi,West - Rajasthan,4513249.74,103,106
+Aaryan Patel,South - Tamil Nadu,1944750.47,19,40
+Sai Saxena,South - Karnataka,1810838.29,6,20
+Sai Shah,South - Kerala,3029243.69,120,131
+Arjun Bhat,West - Rajasthan,329014.47,101,108
+Kiran Yadav,North - Punjab,2840144.56,25,40
+Advik Pillai,Central - Madhya Pradesh,879345.17,105,120
+Advik Pandey,North - Punjab,4882376.77,46,50
+Kiran Joshi,North - Punjab,4715427.4,102,139
+Reyansh Malhotra,West - Gujarat,2387158.71,8,23
+Vivaan Malhotra,East - Bihar,4066198.58,62,81
+Ananya Joshi,South - Andhra Pradesh,4011857.36,48,59
+Anjali Pandey,North - Delhi,1742652.21,102,107
+Kiran Saxena,West - Rajasthan,2233435.57,5,44
+Arjun Agarwal,East - West Bengal,1272943.95,41,75
+Tanvi Sharma,West - Rajasthan,1161733.05,89,91
+Neha Yadav,East - West Bengal,3742934.91,20,22
+Sneha Malhotra,West - Gujarat,3656410.66,45,55
+Tanvi Malhotra,East - Bihar,1571343.15,37,43
+Reyansh Shah,East - Odisha,1929335.25,50,58
+Kavya Gupta,West - Rajasthan,2778994.19,96,102
+Ananya Dubey,North - Haryana,760952.0,63,75
+Swati Bansal,South - Kerala,4122544.21,84,104
+Dhruv Patel,South - Karnataka,1003171.06,81,81
+Pranav Mehta,Northeast - Meghalaya,1412874.92,72,73
+Ishita Kapoor,West - Maharashtra,2515278.43,119,120
+Sneha Nair,North - Delhi,4753228.49,100,104
+Pallavi Kumar,East - Odisha,4689267.19,70,90
+Sai Kapoor,Central - Chhattisgarh,3434360.46,78,98
+Meera Iyer,East - West Bengal,4867177.36,27,28
+Dhruv Kumar,South - Karnataka,3351693.95,94,95
+Meera Bhat,North - Punjab,500743.28,44,44
+Divya Mishra,Northeast - Meghalaya,4738127.12,114,137
+Rekha Shah,North - Delhi,1782576.86,68,68
+Atharv Bansal,East - West Bengal,1674825.1,7,9
+Vihaan Jain,West - Maharashtra,2315212.37,34,39
+Shruti Naik,West - Maharashtra,4809527.56,58,61
+Pallavi Pandey,North - Punjab,250106.78,57,57
+Shruti Nair,Northeast - Assam,807098.82,89,114
+Kritika Mishra,Central - Madhya Pradesh,2585805.2,42,45
+Kavya Reddy,South - Andhra Pradesh,4123390.03,107,119
+Reyansh Rao,South - Tamil Nadu,715519.75,25,49
+Atharv Yadav,South - Tamil Nadu,2892745.18,69,78
+Anjali Kumar,West - Gujarat,2019086.17,81,119
+Neha Mehta,East - Odisha,294393.32,24,37
+Aaryan Bhat,Central - Chhattisgarh,4195389.9,31,31
+Vihaan Singh,Central - Madhya Pradesh,2098748.94,65,66
+Kiran Singh,North - Punjab,2125497.07,117,146
+Kabir Bansal,North - UP,1158962.79,91,106
+Swati Pillai,North - UP,3186994.52,14,16
+Neha Mishra,South - Karnataka,816298.74,5,16
+Geeta Srivastava,South - Andhra Pradesh,1959939.83,87,92
+Ishita Dubey,East - West Bengal,1333603.16,112,161
+Shaurya Kumar,East - Bihar,4385760.04,6,9
+Shaurya Reddy,West - Maharashtra,2747007.12,75,76
+Vihaan Patel,North - UP,270099.78,67,94
+Tanvi Yadav,West - Gujarat,1737821.14,71,79
+Ananya Naik,West - Rajasthan,4531955.54,47,65
+Nandini Agarwal,West - Maharashtra,3890544.77,45,75
+Sai Patel,Northeast - Assam,1090338.53,111,131
+Riya Saxena,Central - Madhya Pradesh,470777.93,47,55
+Krishna Desai,East - Odisha,3363257.11,53,59
+Advik Kapoor,South - Andhra Pradesh,4694051.26,35,35
+Sai Gupta,West - Maharashtra,2103861.54,37,61
+Ritvik Pillai,North - UP,1930409.39,88,103
+Arjun Mishra,North - Punjab,4033967.07,48,48
+Ayaan Shah,West - Rajasthan,2894700.03,39,48
+Rekha Saxena,North - Delhi,2493881.9,69,101
+Ishaan Rao,South - Kerala,4890315.3,53,53
+Reyansh Verma,East - Bihar,201052.18,117,119
+Anjali Verma,West - Gujarat,4282038.69,61,88
+Kiran Sharma,Central - Madhya Pradesh,605771.73,46,50
+Nandini Patel,Central - Madhya Pradesh,2082029.72,14,23
+Aarav Gupta,South - Karnataka,1350779.06,111,119
+Kabir Singh,North - Haryana,2736029.97,9,14
+Pallavi Mehta,North - Haryana,3113800.26,102,127
+Rohan Srivastava,West - Gujarat,601905.03,38,55
+Divya Mehta,South - Andhra Pradesh,2982432.76,91,97
+Kavya Verma,Central - Chhattisgarh,3258622.35,36,46
+Shaurya Naik,West - Gujarat,3167165.41,62,74
+Riya Singh,Northeast - Assam,1339633.07,14,37
+Aarav Joshi,East - West Bengal,3617391.73,114,139
+Pallavi Bhat,North - Delhi,184893.28,11,16
+Sai Mishra,Central - Chhattisgarh,4571790.62,102,130
+Divya Iyer,South - Karnataka,573464.24,87,107
+Swati Malhotra,North - Haryana,4030292.31,85,104
+Kiran Agarwal,South - Tamil Nadu,4148338.79,93,93
+Ishaan Agarwal,Northeast - Assam,4360995.3,104,106
+Reyansh Reddy,South - Tamil Nadu,1990553.63,12,29
+Neha Joshi,Central - Madhya Pradesh,4373141.16,54,61
+Pallavi Shah,West - Gujarat,1783866.2,86,92
+Kavya Agarwal,South - Andhra Pradesh,3101653.58,106,137
+Atharv Bhat,Central - Madhya Pradesh,3123417.35,102,112
+Advik Sharma,Central - Chhattisgarh,170154.51,8,8
+Simran Pillai,North - Punjab,4298708.54,17,27
+Sai Nair,North - UP,1268813.16,94,95
+Shaurya Jain,South - Tamil Nadu,1140657.27,67,89
+Tanvi Pandey,East - Bihar,4674525.4,65,80
+Ritvik Reddy,East - Bihar,3457220.21,33,35
+Swati Saxena,North - Delhi,4682931.87,28,57
+Arjun Naik,East - West Bengal,657706.4,109,109
+Ritvik Kumar,East - West Bengal,1982161.98,86,98
+Dhruv Agarwal,South - Karnataka,2354576.1,83,119
+Riya Patel,North - Haryana,4965170.5,24,26
+Vivaan Rao,South - Andhra Pradesh,4213634.39,46,68
+Advik Dubey,East - Odisha,4988258.41,32,37
+Tanvi Bhat,South - Karnataka,4687790.68,91,112
+Reyansh Yadav,South - Kerala,3024717.3,85,91
+Aaryan Verma,Central - Chhattisgarh,2018560.39,12,21
+Shruti Jain,West - Rajasthan,2035866.49,108,117
+Krishna Naik,West - Rajasthan,3689585.42,7,9
+Aaryan Bansal,North - Haryana,4332100.62,87,108
+Arjun Rao,South - Tamil Nadu,1694789.16,70,71
+Priya Saxena,North - Haryana,334145.6,32,60
+Atharv Reddy,East - West Bengal,1790185.44,62,62
+Meera Tiwari,East - West Bengal,603502.55,33,56
+Kritika Joshi,Northeast - Meghalaya,2251824.11,19,31
+Aditya Srivastava,South - Kerala,1093089.72,32,33
+Vivaan Tiwari,North - UP,4739410.68,66,80
+Ishaan Bansal,East - Bihar,3638471.08,48,73
+Meera Rao,West - Rajasthan,1065725.19,77,82
+Krishna Mishra,North - Haryana,2759054.94,13,13
+Dhruv Verma,South - Tamil Nadu,3302784.05,97,100
+Pallavi Patel,South - Karnataka,2395203.44,84,89
+Geeta Dubey,East - Bihar,2072553.83,97,97
+Reyansh Desai,Central - Madhya Pradesh,330102.6,110,120
+Krishna Mehta,South - Kerala,805917.45,13,52
+Neha Iyer,Central - Madhya Pradesh,634770.51,67,91
+Neha Malhotra,South - Karnataka,979848.6,97,115
+Aarav Patel,Central - Madhya Pradesh,3575690.33,96,118
+Geeta Desai,North - Haryana,3527957.1,73,78
+Ananya Srivastava,Central - Madhya Pradesh,4345349.53,77,79
+Tanvi Dubey,North - Haryana,3622593.34,23,55
+Swati Naik,North - Delhi,925255.93,47,48
+Krishna Sharma,North - Punjab,961531.29,106,115
+Ishaan Pillai,West - Rajasthan,4783158.67,106,107
+Tanvi Desai,South - Karnataka,3689250.55,73,83
+Pooja Desai,West - Rajasthan,4876919.17,73,101
+Ishaan Saxena,South - Andhra Pradesh,2788925.12,29,48
+Priya Pillai,South - Kerala,4317460.93,120,147
+Kritika Iyer,North - Haryana,780019.12,80,80
+Shaurya Mishra,Central - Chhattisgarh,3295030.3,86,118
+Simran Bansal,South - Karnataka,1559780.19,73,86
+Sneha Agarwal,North - Punjab,4506058.19,85,91
+Rekha Desai,South - Kerala,3136892.41,15,17
+Rohan Patel,South - Kerala,856526.21,91,93
+Arjun Tiwari,Northeast - Assam,1565507.4,64,64
+Anjali Malhotra,West - Maharashtra,1833182.56,111,124
+Vivaan Reddy,South - Kerala,3179547.76,88,91
+Neha Pandey,North - Haryana,2841500.86,83,112
+Pranav Patel,South - Tamil Nadu,3207309.67,119,121
+Aarav Iyer,Central - Chhattisgarh,910211.78,65,108
+Ishaan Verma,South - Kerala,961208.33,84,128
+Riya Nair,South - Tamil Nadu,651038.94,88,107
+Riya Pandey,Central - Madhya Pradesh,2922442.44,27,46
+Divya Bhat,Northeast - Meghalaya,2522713.54,94,111
+Divya Bansal,West - Gujarat,1583693.29,93,97
+Vihaan Rao,South - Kerala,3518494.9,90,109
+Shaurya Saxena,Northeast - Meghalaya,964100.53,60,64
+Krishna Kapoor,Central - Chhattisgarh,1569580.19,98,121
+Kabir Patel,Northeast - Assam,3613522.33,52,59
+Shruti Iyer,East - Bihar,1919950.03,73,74
+Arjun Malhotra,Central - Chhattisgarh,3979442.47,51,62
+Kiran Verma,North - Haryana,2142900.6,29,51
+Aditya Joshi,North - Delhi,4139640.71,48,55
+Vivaan Yadav,East - Bihar,1650130.13,10,12
+Kiran Desai,West - Gujarat,2360437.82,40,81
+Dhruv Mishra,West - Gujarat,722745.45,100,131
+Kiran Srivastava,North - Punjab,192379.91,56,69
+Tanvi Saxena,North - Haryana,4865745.02,96,110
+Reyansh Mishra,South - Andhra Pradesh,4689736.18,8,42
+Shruti Shah,North - Punjab,406235.4,32,32
+Ayaan Reddy,North - Delhi,4460971.69,61,75
+Kabir Tiwari,North - UP,2701278.25,37,40
+Pranav Malhotra,West - Gujarat,1894633.17,15,42
+Swati Tiwari,North - Delhi,2552385.95,85,102
+Ishita Pillai,South - Karnataka,2259390.02,92,93
+Tanvi Rao,West - Maharashtra,1471847.71,109,117
+Pranav Pandey,West - Rajasthan,2312643.26,83,85
+Kavya Naik,East - West Bengal,1839214.26,44,47
+Ritvik Patel,North - Punjab,4126274.08,115,117
+Sai Agarwal,South - Andhra Pradesh,401898.51,94,98
+Tanvi Pillai,South - Karnataka,2518082.92,46,75
+Aarav Srivastava,Central - Madhya Pradesh,4301990.7,117,122
+Divya Malhotra,Northeast - Meghalaya,3162819.34,55,61
+Sai Kumar,East - Bihar,2228464.96,97,105
+Dhruv Menon,Central - Madhya Pradesh,3387636.62,29,70
+Divya Patel,North - Punjab,852015.4,51,57
+Kiran Kapoor,North - Punjab,917405.62,45,47
+Pallavi Singh,South - Andhra Pradesh,2084632.36,98,100
+Simran Verma,Northeast - Assam,309509.76,95,96
+Anjali Desai,East - Bihar,1999730.92,76,92
+Aaryan Yadav,East - Odisha,1166109.84,105,106
+Nandini Pillai,East - Bihar,2469515.82,65,66
+Kiran Iyer,West - Gujarat,2976258.61,108,114
+Ishita Desai,North - Punjab,2443687.59,114,133
+Kritika Singh,South - Kerala,4566331.82,40,42
+Rekha Srivastava,North - Punjab,254167.68,82,126
+Advik Naik,West - Maharashtra,2711002.48,83,106
+Meera Nair,South - Tamil Nadu,3294724.5,43,63
+Divya Menon,South - Kerala,2738318.86,79,85
+Simran Reddy,West - Maharashtra,4405490.46,76,80
+Pooja Rao,East - Bihar,4133286.6,113,125
+Kritika Nair,North - Haryana,354254.9,17,53
+Priya Malhotra,South - Karnataka,583156.78,48,53
+Kiran Menon,Central - Madhya Pradesh,4793277.13,120,125
+Divya Jain,East - West Bengal,722060.74,30,32
+Ritvik Menon,West - Gujarat,3562264.95,101,106
+Ishaan Reddy,Central - Chhattisgarh,1073022.88,22,26
+Pallavi Pillai,West - Rajasthan,1146112.56,11,31
+Shaurya Pandey,North - Haryana,919883.4,34,44
+Sneha Singh,Northeast - Assam,4502039.96,43,53
+Krishna Iyer,Northeast - Meghalaya,4955066.03,86,109
+Anjali Singh,East - Bihar,1109085.8,91,114
+Atharv Shah,East - Odisha,1458297.45,95,95
+Dhruv Shah,East - West Bengal,4489354.93,91,96
+Kritika Gupta,Central - Chhattisgarh,435851.17,60,71
+Nandini Bhat,South - Karnataka,4274019.63,102,119
+Ayaan Mishra,North - UP,1082622.02,5,12
+Kritika Kumar,East - West Bengal,4973446.26,50,79
+Rohan Yadav,East - West Bengal,4967288.56,13,22
+Vivaan Mehta,South - Kerala,1133996.67,57,63
+Vihaan Nair,South - Karnataka,2533043.45,17,17
+Aaryan Pandey,North - Punjab,3408255.08,30,64
+Dhruv Tiwari,South - Karnataka,3699248.42,55,67
+Vivaan Dubey,South - Kerala,4049811.03,67,82
+Sneha Dubey,Central - Madhya Pradesh,4945184.66,118,145
+Dhruv Jain,Northeast - Meghalaya,4265769.04,115,127
+Swati Mehta,South - Tamil Nadu,738572.17,42,43
+Swati Patel,Northeast - Meghalaya,979535.9,44,45
+Pooja Kapoor,West - Rajasthan,1152677.7,120,152
+Riya Yadav,East - Odisha,3194195.14,107,131
+Sneha Tiwari,Northeast - Assam,2218426.62,15,40
+Ishita Mehta,North - UP,3100733.25,74,100
+Pranav Bansal,South - Andhra Pradesh,3252552.11,98,137
+Vihaan Agarwal,South - Tamil Nadu,4034846.66,60,74
+Kavya Joshi,Northeast - Assam,1998554.67,14,34
+Rekha Joshi,North - Haryana,430589.93,41,64
+Kabir Dubey,Northeast - Meghalaya,2923350.74,106,143
+Aaryan Reddy,Northeast - Assam,3356267.55,34,34
+Neha Agarwal,North - Delhi,376177.14,90,100
+Pranav Srivastava,Central - Madhya Pradesh,1054819.07,25,35
+Arjun Jain,North - UP,4158034.82,31,61
+Ayaan Kumar,South - Andhra Pradesh,1277757.86,83,97
+Divya Tiwari,Central - Madhya Pradesh,4637531.78,21,62
+Neha Rao,South - Kerala,1900300.59,92,94
+Ayaan Patel,West - Gujarat,1513751.34,104,112
+Ananya Desai,South - Tamil Nadu,3176020.46,22,36
+Advik Desai,East - Odisha,4524996.0,63,71
+Aditya Gupta,West - Gujarat,470013.97,82,87
+Arjun Dubey,South - Karnataka,355686.82,70,70
+Rohan Pandey,West - Gujarat,1144887.64,113,151
+Meera Jain,North - Punjab,3729433.02,96,98
+Aditya Rao,Central - Madhya Pradesh,2802991.55,19,32
+Ishita Reddy,East - Bihar,1032708.37,26,33
+Atharv Saxena,East - Bihar,325881.07,48,53
+Pooja Yadav,North - Delhi,2823810.37,89,91
+Aditya Singh,North - Haryana,4184209.38,74,89
+Rekha Naik,North - Punjab,2025052.91,70,79
+Aarav Nair,Central - Madhya Pradesh,2620497.37,96,108
+Atharv Verma,South - Karnataka,3333306.28,5,27
+Aditya Kapoor,East - Bihar,1479164.65,88,103
+Aaryan Kumar,North - Haryana,679486.17,59,72
+Ishaan Kumar,Northeast - Assam,2951638.46,72,74
+Arjun Bansal,North - Punjab,3724918.92,10,23
+Tanvi Jain,Central - Chhattisgarh,2530293.26,111,145

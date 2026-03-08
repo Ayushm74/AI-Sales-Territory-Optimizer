@@ -1,0 +1,501 @@
+region,tier,market_size
+South - Telangana,Metro,3466000
+North - Punjab,Tier-1,2355000
+Northeast - Meghalaya,Tier-3,464000
+Northeast - Manipur,Tier-3,418000
+West - Gujarat,Tier-1,2785000
+Central - Chhattisgarh,Tier-3,1072000
+South - Telangana,Metro,3804000
+South - Andhra Pradesh,Tier-1,2706000
+North - J&K,Tier-3,775000
+East - Odisha,Tier-2,2021000
+West - Maharashtra,Metro,5821000
+West - Goa,Tier-2,781000
+Central - Chhattisgarh,Tier-3,956000
+West - Rajasthan,Tier-2,2002000
+East - West Bengal,Metro,4107000
+West - Gujarat,Tier-1,2771000
+East - West Bengal,Metro,3759000
+West - Gujarat,Tier-1,2932000
+South - Tamil Nadu,Metro,4749000
+North - Himachal Pradesh,Tier-3,896000
+North - Haryana,Tier-1,1746000
+South - Kerala,Tier-1,2428000
+Northeast - Manipur,Tier-3,368000
+North - Uttarakhand,Tier-2,1235000
+West - Gujarat,Tier-1,3140000
+West - Rajasthan,Tier-2,1985000
+Central - Madhya Pradesh,Tier-2,2635000
+East - West Bengal,Metro,3134000
+North - UP,Tier-2,3638000
+Northeast - Manipur,Tier-3,430000
+East - Bihar,Tier-2,2047000
+West - Goa,Tier-2,668000
+North - Punjab,Tier-1,2579000
+West - Rajasthan,Tier-2,2300000
+Northeast - Manipur,Tier-3,436000
+West - Rajasthan,Tier-2,2377000
+East - Jharkhand,Tier-3,1260000
+Central - Chhattisgarh,Tier-3,920000
+Northeast - Assam,Tier-2,1346000
+North - Punjab,Tier-1,2224000
+South - Telangana,Metro,4117000
+Northeast - Meghalaya,Tier-3,514000
+Northeast - Meghalaya,Tier-3,451000
+North - Punjab,Tier-1,2596000
+North - Punjab,Tier-1,2517000
+North - J&K,Tier-3,902000
+South - Karnataka,Metro,4189000
+East - Jharkhand,Tier-3,960000
+North - Delhi,Metro,5146000
+West - Gujarat,Tier-1,2886000
+North - Haryana,Tier-1,1727000
+Central - Madhya Pradesh,Tier-2,2073000
+Northeast - Manipur,Tier-3,418000
+West - Gujarat,Tier-1,3265000
+South - Telangana,Metro,4082000
+Northeast - Manipur,Tier-3,435000
+South - Karnataka,Metro,3972000
+East - Jharkhand,Tier-3,989000
+North - Delhi,Metro,4360000
+West - Gujarat,Tier-1,3473000
+North - J&K,Tier-3,991000
+North - Himachal Pradesh,Tier-3,816000
+North - Himachal Pradesh,Tier-3,690000
+North - Punjab,Tier-1,2358000
+Northeast - Tripura,Tier-3,430000
+North - Delhi,Metro,4291000
+West - Goa,Tier-2,667000
+Northeast - Assam,Tier-2,1457000
+West - Maharashtra,Metro,6149000
+South - Karnataka,Metro,4608000
+East - Odisha,Tier-2,1894000
+North - UP,Tier-2,3025000
+North - Uttarakhand,Tier-2,1081000
+South - Telangana,Metro,4219000
+East - Jharkhand,Tier-3,1251000
+East - Odisha,Tier-2,2023000
+East - Jharkhand,Tier-3,1038000
+South - Tamil Nadu,Metro,4255000
+East - West Bengal,Metro,3104000
+North - Haryana,Tier-1,2210000
+West - Goa,Tier-2,660000
+East - West Bengal,Metro,3498000
+West - Goa,Tier-2,643000
+Northeast - Meghalaya,Tier-3,526000
+Northeast - Assam,Tier-2,1200000
+West - Goa,Tier-2,695000
+Northeast - Assam,Tier-2,1188000
+North - J&K,Tier-3,811000
+North - J&K,Tier-3,979000
+North - Himachal Pradesh,Tier-3,785000
+Northeast - Meghalaya,Tier-3,473000
+North - Uttarakhand,Tier-2,1029000
+North - Uttarakhand,Tier-2,1134000
+North - UP,Tier-2,3073000
+Northeast - Meghalaya,Tier-3,502000
+Northeast - Meghalaya,Tier-3,535000
+West - Gujarat,Tier-1,3459000
+South - Telangana,Metro,3613000
+South - Karnataka,Metro,4530000
+South - Kerala,Tier-1,2952000
+East - Bihar,Tier-2,2323000
+North - Delhi,Metro,4410000
+North - Uttarakhand,Tier-2,1120000
+East - Odisha,Tier-2,1926000
+Northeast - Tripura,Tier-3,455000
+South - Tamil Nadu,Metro,4779000
+South - Andhra Pradesh,Tier-1,3104000
+North - Uttarakhand,Tier-2,1124000
+Northeast - Tripura,Tier-3,494000
+East - Odisha,Tier-2,1718000
+South - Kerala,Tier-1,2847000
+Northeast - Meghalaya,Tier-3,523000
+North - J&K,Tier-3,851000
+West - Rajasthan,Tier-2,2223000
+North - Haryana,Tier-1,2176000
+North - Uttarakhand,Tier-2,1163000
+Northeast - Meghalaya,Tier-3,536000
+East - Jharkhand,Tier-3,1247000
+East - Odisha,Tier-2,1802000
+West - Goa,Tier-2,762000
+North - Himachal Pradesh,Tier-3,811000
+West - Maharashtra,Metro,5541000
+Central - Chhattisgarh,Tier-3,997000
+Central - Madhya Pradesh,Tier-2,2483000
+East - Bihar,Tier-2,1963000
+South - Kerala,Tier-1,2909000
+Northeast - Assam,Tier-2,1139000
+Central - Chhattisgarh,Tier-3,1046000
+South - Karnataka,Metro,4285000
+Northeast - Tripura,Tier-3,464000
+East - Bihar,Tier-2,1826000
+East - Odisha,Tier-2,2029000
+North - Delhi,Metro,4475000
+North - Himachal Pradesh,Tier-3,765000
+North - Haryana,Tier-1,2256000
+Northeast - Manipur,Tier-3,379000
+North - Himachal Pradesh,Tier-3,684000
+North - J&K,Tier-3,956000
+East - Bihar,Tier-2,2208000
+North - J&K,Tier-3,861000
+Northeast - Meghalaya,Tier-3,428000
+South - Kerala,Tier-1,2982000
+North - Punjab,Tier-1,2813000
+North - Punjab,Tier-1,2185000
+South - Kerala,Tier-1,3098000
+West - Gujarat,Tier-1,3488000
+Central - Madhya Pradesh,Tier-2,2165000
+Northeast - Tripura,Tier-3,389000
+North - Delhi,Metro,4385000
+South - Telangana,Metro,3403000
+West - Rajasthan,Tier-2,1893000
+South - Andhra Pradesh,Tier-1,2978000
+West - Rajasthan,Tier-2,1879000
+East - Bihar,Tier-2,2198000
+West - Gujarat,Tier-1,2865000
+East - Jharkhand,Tier-3,1010000
+South - Kerala,Tier-1,2964000
+North - Haryana,Tier-1,1901000
+Central - Chhattisgarh,Tier-3,1060000
+North - Himachal Pradesh,Tier-3,784000
+North - Himachal Pradesh,Tier-3,754000
+North - J&K,Tier-3,789000
+South - Telangana,Metro,3925000
+North - Delhi,Metro,4804000
+West - Rajasthan,Tier-2,2513000
+North - Haryana,Tier-1,2151000
+North - UP,Tier-2,3831000
+South - Andhra Pradesh,Tier-1,3169000
+North - J&K,Tier-3,820000
+South - Andhra Pradesh,Tier-1,3397000
+South - Telangana,Metro,3308000
+North - Delhi,Metro,5147000
+South - Andhra Pradesh,Tier-1,2734000
+West - Rajasthan,Tier-2,2347000
+West - Goa,Tier-2,671000
+West - Goa,Tier-2,802000
+South - Telangana,Metro,4086000
+East - West Bengal,Metro,3350000
+East - Odisha,Tier-2,1676000
+North - Uttarakhand,Tier-2,1328000
+East - West Bengal,Metro,3704000
+East - West Bengal,Metro,3955000
+West - Gujarat,Tier-1,2795000
+North - Delhi,Metro,4412000
+Northeast - Meghalaya,Tier-3,446000
+North - Delhi,Metro,4740000
+Northeast - Tripura,Tier-3,442000
+West - Maharashtra,Metro,5825000
+East - Odisha,Tier-2,2027000
+East - Odisha,Tier-2,1805000
+West - Gujarat,Tier-1,2894000
+South - Telangana,Metro,4149000
+North - Uttarakhand,Tier-2,1068000
+South - Tamil Nadu,Metro,3676000
+West - Gujarat,Tier-1,3024000
+South - Telangana,Metro,4046000
+South - Tamil Nadu,Metro,3770000
+East - Jharkhand,Tier-3,1215000
+West - Maharashtra,Metro,5723000
+South - Karnataka,Metro,4263000
+West - Maharashtra,Metro,6401000
+East - Jharkhand,Tier-3,1206000
+Central - Chhattisgarh,Tier-3,1119000
+Northeast - Meghalaya,Tier-3,429000
+Northeast - Meghalaya,Tier-3,467000
+Northeast - Assam,Tier-2,1437000
+Central - Madhya Pradesh,Tier-2,2476000
+North - J&K,Tier-3,886000
+North - Punjab,Tier-1,2779000
+South - Andhra Pradesh,Tier-1,2634000
+Northeast - Manipur,Tier-3,387000
+South - Karnataka,Metro,3922000
+Northeast - Meghalaya,Tier-3,521000
+Northeast - Assam,Tier-2,1427000
+South - Andhra Pradesh,Tier-1,3416000
+West - Maharashtra,Metro,6761000
+East - Odisha,Tier-2,1989000
+West - Gujarat,Tier-1,3260000
+Northeast - Manipur,Tier-3,442000
+North - UP,Tier-2,3028000
+North - J&K,Tier-3,944000
+North - Uttarakhand,Tier-2,1232000
+South - Kerala,Tier-1,3170000
+South - Telangana,Metro,3327000
+South - Tamil Nadu,Metro,4508000
+West - Maharashtra,Metro,6473000
+South - Kerala,Tier-1,2878000
+Northeast - Assam,Tier-2,1115000
+North - Himachal Pradesh,Tier-3,863000
+North - Uttarakhand,Tier-2,1133000
+East - Odisha,Tier-2,1552000
+South - Tamil Nadu,Metro,3753000
+North - Uttarakhand,Tier-2,1133000
+Central - Madhya Pradesh,Tier-2,2451000
+West - Maharashtra,Metro,5704000
+Central - Chhattisgarh,Tier-3,999000
+Northeast - Assam,Tier-2,1450000
+South - Tamil Nadu,Metro,3808000
+West - Goa,Tier-2,779000
+West - Maharashtra,Metro,6676000
+South - Andhra Pradesh,Tier-1,3445000
+North - Delhi,Metro,5694000
+East - Jharkhand,Tier-3,1242000
+South - Karnataka,Metro,3872000
+East - West Bengal,Metro,3061000
+Central - Madhya Pradesh,Tier-2,2307000
+North - Delhi,Metro,5059000
+South - Karnataka,Metro,4465000
+North - J&K,Tier-3,804000
+West - Rajasthan,Tier-2,2147000
+South - Telangana,Metro,3830000
+North - Uttarakhand,Tier-2,1045000
+North - J&K,Tier-3,823000
+North - Himachal Pradesh,Tier-3,695000
+East - Jharkhand,Tier-3,959000
+South - Telangana,Metro,3786000
+West - Rajasthan,Tier-2,2460000
+North - Punjab,Tier-1,2856000
+East - West Bengal,Metro,3932000
+Northeast - Assam,Tier-2,1169000
+East - Odisha,Tier-2,1898000
+North - Haryana,Tier-1,1840000
+Northeast - Assam,Tier-2,1196000
+Central - Chhattisgarh,Tier-3,1077000
+East - West Bengal,Metro,3721000
+West - Maharashtra,Metro,5979000
+West - Maharashtra,Metro,5194000
+North - Delhi,Metro,4455000
+West - Gujarat,Tier-1,3666000
+Northeast - Tripura,Tier-3,456000
+Northeast - Tripura,Tier-3,445000
+Northeast - Manipur,Tier-3,442000
+North - Delhi,Metro,5302000
+East - Jharkhand,Tier-3,1076000
+East - Jharkhand,Tier-3,1106000
+East - Jharkhand,Tier-3,1116000
+West - Goa,Tier-2,791000
+West - Maharashtra,Metro,5434000
+East - Bihar,Tier-2,2158000
+South - Karnataka,Metro,3948000
+West - Goa,Tier-2,696000
+East - Odisha,Tier-2,1856000
+North - Punjab,Tier-1,2218000
+West - Maharashtra,Metro,6565000
+South - Kerala,Tier-1,2823000
+Northeast - Tripura,Tier-3,454000
+Northeast - Manipur,Tier-3,420000
+North - J&K,Tier-3,872000
+Central - Chhattisgarh,Tier-3,1003000
+South - Tamil Nadu,Metro,4532000
+North - UP,Tier-2,3594000
+North - Haryana,Tier-1,1942000
+Central - Madhya Pradesh,Tier-2,2047000
+Central - Madhya Pradesh,Tier-2,2066000
+North - Himachal Pradesh,Tier-3,883000
+North - Punjab,Tier-1,2513000
+South - Karnataka,Metro,5085000
+West - Rajasthan,Tier-2,2330000
+Northeast - Manipur,Tier-3,353000
+North - Haryana,Tier-1,1928000
+South - Kerala,Tier-1,2963000
+Northeast - Meghalaya,Tier-3,426000
+Central - Chhattisgarh,Tier-3,910000
+North - UP,Tier-2,3494000
+West - Maharashtra,Metro,6177000
+North - Haryana,Tier-1,1995000
+Northeast - Assam,Tier-2,1460000
+South - Karnataka,Metro,4380000
+Northeast - Manipur,Tier-3,423000
+East - Bihar,Tier-2,2262000
+South - Andhra Pradesh,Tier-1,2954000
+Northeast - Tripura,Tier-3,508000
+North - Himachal Pradesh,Tier-3,842000
+South - Tamil Nadu,Metro,3681000
+North - Haryana,Tier-1,1812000
+Northeast - Manipur,Tier-3,435000
+South - Kerala,Tier-1,2682000
+North - Himachal Pradesh,Tier-3,731000
+South - Kerala,Tier-1,2706000
+South - Kerala,Tier-1,2962000
+South - Andhra Pradesh,Tier-1,2770000
+West - Gujarat,Tier-1,3274000
+North - Himachal Pradesh,Tier-3,792000
+East - Bihar,Tier-2,2107000
+Northeast - Manipur,Tier-3,384000
+North - J&K,Tier-3,961000
+Northeast - Meghalaya,Tier-3,504000
+North - Punjab,Tier-1,2135000
+North - Haryana,Tier-1,1788000
+West - Rajasthan,Tier-2,1966000
+South - Karnataka,Metro,4065000
+Northeast - Assam,Tier-2,1303000
+West - Gujarat,Tier-1,3145000
+North - UP,Tier-2,3460000
+South - Andhra Pradesh,Tier-1,2917000
+East - West Bengal,Metro,3541000
+East - Jharkhand,Tier-3,1247000
+North - Punjab,Tier-1,2712000
+North - Delhi,Metro,5030000
+East - Odisha,Tier-2,1936000
+North - Delhi,Metro,5341000
+Northeast - Meghalaya,Tier-3,507000
+West - Gujarat,Tier-1,3550000
+South - Tamil Nadu,Metro,4669000
+West - Goa,Tier-2,740000
+Northeast - Assam,Tier-2,1420000
+East - Odisha,Tier-2,1882000
+North - Punjab,Tier-1,2647000
+East - West Bengal,Metro,3655000
+North - UP,Tier-2,3532000
+East - West Bengal,Metro,3117000
+South - Telangana,Metro,3601000
+East - West Bengal,Metro,3963000
+Northeast - Meghalaya,Tier-3,512000
+North - UP,Tier-2,3693000
+East - Odisha,Tier-2,1664000
+West - Rajasthan,Tier-2,2203000
+East - Jharkhand,Tier-3,1185000
+East - Odisha,Tier-2,1635000
+Northeast - Assam,Tier-2,1126000
+Central - Chhattisgarh,Tier-3,1051000
+West - Rajasthan,Tier-2,1871000
+North - UP,Tier-2,3616000
+East - Bihar,Tier-2,2095000
+North - Haryana,Tier-1,2061000
+South - Telangana,Metro,4051000
+Northeast - Meghalaya,Tier-3,436000
+North - Delhi,Metro,5669000
+Northeast - Manipur,Tier-3,400000
+North - J&K,Tier-3,927000
+Northeast - Tripura,Tier-3,481000
+South - Karnataka,Metro,4983000
+South - Andhra Pradesh,Tier-1,3329000
+South - Tamil Nadu,Metro,3821000
+South - Telangana,Metro,3772000
+North - UP,Tier-2,3533000
+North - UP,Tier-2,3671000
+Northeast - Tripura,Tier-3,465000
+Northeast - Tripura,Tier-3,451000
+East - Bihar,Tier-2,2082000
+East - Bihar,Tier-2,2347000
+Northeast - Meghalaya,Tier-3,547000
+Central - Chhattisgarh,Tier-3,991000
+South - Andhra Pradesh,Tier-1,2987000
+Northeast - Manipur,Tier-3,406000
+North - Delhi,Metro,4764000
+South - Andhra Pradesh,Tier-1,3032000
+South - Tamil Nadu,Metro,3810000
+North - J&K,Tier-3,928000
+North - Punjab,Tier-1,2552000
+South - Karnataka,Metro,3862000
+East - Bihar,Tier-2,2400000
+North - Punjab,Tier-1,2633000
+East - Jharkhand,Tier-3,1186000
+Northeast - Assam,Tier-2,1394000
+North - UP,Tier-2,3546000
+North - Haryana,Tier-1,2093000
+North - UP,Tier-2,3509000
+Central - Madhya Pradesh,Tier-2,2538000
+North - Himachal Pradesh,Tier-3,773000
+East - West Bengal,Metro,3250000
+North - Uttarakhand,Tier-2,1097000
+Central - Madhya Pradesh,Tier-2,2513000
+Northeast - Tripura,Tier-3,398000
+East - Bihar,Tier-2,1862000
+North - Haryana,Tier-1,1912000
+Central - Chhattisgarh,Tier-3,1027000
+North - Himachal Pradesh,Tier-3,858000
+East - Jharkhand,Tier-3,1157000
+South - Andhra Pradesh,Tier-1,2581000
+North - Uttarakhand,Tier-2,1232000
+East - West Bengal,Metro,3562000
+North - UP,Tier-2,3148000
+East - Bihar,Tier-2,1908000
+North - Uttarakhand,Tier-2,1322000
+West - Goa,Tier-2,754000
+East - West Bengal,Metro,3122000
+Northeast - Manipur,Tier-3,364000
+North - Himachal Pradesh,Tier-3,794000
+Northeast - Tripura,Tier-3,497000
+South - Karnataka,Metro,4646000
+East - Odisha,Tier-2,1844000
+North - Delhi,Metro,4251000
+North - J&K,Tier-3,850000
+West - Maharashtra,Metro,5835000
+West - Goa,Tier-2,665000
+North - Haryana,Tier-1,2163000
+Central - Chhattisgarh,Tier-3,1122000
+West - Maharashtra,Metro,5701000
+East - Bihar,Tier-2,1990000
+South - Tamil Nadu,Metro,4050000
+West - Goa,Tier-2,728000
+South - Andhra Pradesh,Tier-1,2810000
+East - Bihar,Tier-2,2045000
+Northeast - Tripura,Tier-3,452000
+North - Uttarakhand,Tier-2,1026000
+Northeast - Tripura,Tier-3,465000
+Northeast - Manipur,Tier-3,361000
+South - Telangana,Metro,3594000
+East - Odisha,Tier-2,1646000
+Central - Madhya Pradesh,Tier-2,2349000
+South - Tamil Nadu,Metro,4327000
+South - Karnataka,Metro,4951000
+Northeast - Tripura,Tier-3,432000
+South - Andhra Pradesh,Tier-1,3336000
+West - Goa,Tier-2,720000
+West - Gujarat,Tier-1,2764000
+West - Goa,Tier-2,760000
+East - Jharkhand,Tier-3,1046000
+South - Tamil Nadu,Metro,4469000
+North - Punjab,Tier-1,2144000
+Northeast - Assam,Tier-2,1176000
+North - J&K,Tier-3,869000
+Central - Madhya Pradesh,Tier-2,2554000
+North - Delhi,Metro,5375000
+Northeast - Assam,Tier-2,1238000
+North - UP,Tier-2,3111000
+East - West Bengal,Metro,3125000
+Northeast - Assam,Tier-2,1152000
+Central - Madhya Pradesh,Tier-2,2315000
+South - Telangana,Metro,3262000
+Central - Chhattisgarh,Tier-3,984000
+Central - Chhattisgarh,Tier-3,983000
+North - Haryana,Tier-1,1807000
+South - Kerala,Tier-1,2939000
+Central - Madhya Pradesh,Tier-2,2358000
+North - Uttarakhand,Tier-2,1332000
+Central - Madhya Pradesh,Tier-2,2320000
+Northeast - Manipur,Tier-3,456000
+North - Haryana,Tier-1,1927000
+Central - Madhya Pradesh,Tier-2,2741000
+East - Jharkhand,Tier-3,1253000
+West - Rajasthan,Tier-2,2481000
+East - Bihar,Tier-2,1813000
+South - Kerala,Tier-1,3078000
+South - Karnataka,Metro,4384000
+South - Kerala,Tier-1,2468000
+Central - Chhattisgarh,Tier-3,1123000
+South - Tamil Nadu,Metro,3601000
+North - UP,Tier-2,3799000
+Central - Chhattisgarh,Tier-3,1089000
+North - UP,Tier-2,3792000
+West - Maharashtra,Metro,6336000
+North - Haryana,Tier-1,2056000
+Central - Madhya Pradesh,Tier-2,2285000
+Central - Madhya Pradesh,Tier-2,2254000
+West - Gujarat,Tier-1,3547000
+South - Tamil Nadu,Metro,4788000
+East - Odisha,Tier-2,1978000
+West - Goa,Tier-2,607000
+North - Punjab,Tier-1,2191000
+South - Tamil Nadu,Metro,4823000
+North - Himachal Pradesh,Tier-3,787000
+Northeast - Assam,Tier-2,1425000
+Northeast - Meghalaya,Tier-3,464000
+North - Haryana,Tier-1,2255000
+North - UP,Tier-2,3326000
+West - Rajasthan,Tier-2,1917000
+Northeast - Meghalaya,Tier-3,474000
+South - Kerala,Tier-1,2662000
